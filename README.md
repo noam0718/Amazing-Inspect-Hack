@@ -1,0 +1,1 @@
+Hello! I'm Noam and I made all of these hacks for you. I noticed that a lot of people have been able to type on apps that you can't type on! Now, most other people do not know how to do that so on this repository, i'm going to show you how to enable a thing called, "inspect".  
