@@ -1,0 +1,3 @@
+Before I give you the link, be sure to read my README.md for directions.
+
+javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0
