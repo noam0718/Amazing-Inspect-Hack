@@ -2,4 +2,4 @@ Hello! I'm Noam and I made all of these hacks for you. I noticed that a lot of p
 
 Enjoy!
 
-(P.S. in order for my hacks to work, type in "javascript:" before you paste the code, EXCEPT FOR THE EDIT HACK!!!)
+(P.S. in order for my hacks to work, type in javascript: before you paste the code, EXCEPT FOR THE EDIT HACK!!!)
